@@ -1,4 +1,4 @@
-package strategy;
+package strategy.example1;
 
 /**
  * Description: 策略接口类

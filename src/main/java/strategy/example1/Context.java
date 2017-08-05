@@ -1,4 +1,4 @@
-package strategy;
+package strategy.example1;
 
 /**
  * Description: 上下文配置类
